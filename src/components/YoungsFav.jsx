@@ -5,7 +5,7 @@ const YoungsFav = () => {
   return (
     <div>
       <div className="container mx-auto my-10">
-        <h1 className="font-extrabold md:my-10 my-5 md:text-3xl text-xl">
+        <h1 className="font-extrabold md:my-10 my-5 md:mx-0 mx-3 md:text-3xl text-2xl">
           Young's Favourite
         </h1>
         <div className="md:flex items-center justify-between">
@@ -31,7 +31,7 @@ const YoungsFav = () => {
             <img className="w-full" src={Images.Image6} alt="Image1" />
             <div className="flex items-center justify-between py-2">
               <div>
-                <h2 className="font-Poppins font-semibold md:text-lg text-sm">
+                <h2 className="font-Poppins font-semibold md:text-lg text-md">
                   All Under $50
                 </h2>
                 <h6 className="font-Poppins font-medium text-gray-400 md:text-lg text-sm">

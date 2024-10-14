@@ -44,8 +44,8 @@ const Header = () => {
         </div>
       </nav>
 
-      <div className="bg-gray-100 px-5 rounded-3xl">
-        <div className="grid sm:grid-cols-2 ">
+      <div className="bg-gray-100 px-5 rounded-3xl ">
+        <div className="grid sm:grid-cols-2 p-3">
           <div>
             <p className="md:font-extrabold font-bold md:text-6xl lg:text-7xl text-5xl">
               LET'S <br />
